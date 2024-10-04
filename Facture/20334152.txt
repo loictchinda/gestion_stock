@@ -1,0 +1,20 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: kkbkbk
+        Tel du client : 698554215
+        Numéro Facture : 20334152		
+	Date:20/05/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        
+Lenovo:	1:	3500
+*****************************************
+Montant Facture: 		 3500.0
+Montant Ht : 		 673.75
+Montant Net à Payer: 		 3325.0
+*****************************************
+        

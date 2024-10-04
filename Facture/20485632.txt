@@ -1,0 +1,19 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: kjkgkgvkh
+        Tel du client : 3131313313
+        Numéro Facture : 20485632		
+	Date:20/05/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        
+*****************************************
+Montant Facture: 		 800000.0
+Montant Ht : 		 154000.0
+Montant Net à Payer: 		 760000.0
+*****************************************
+        

@@ -1,0 +1,21 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: Ramatou
+        Tel du client : 98451254
+        Numéro Facture : 30536528		
+	Date:30/07/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        
+Iphone13 promax 128gb:	3:	2400000
+Dell :	1:	75000
+*****************************************
+Montant Facture: 		 2475000.0
+Montant Ht : 		 476437.5
+Montant Net à Payer: 		 2351250.0
+*****************************************
+        

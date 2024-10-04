@@ -1,0 +1,19 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: sgsgs
+        Tel du client : 
+        Numéro Facture : 12777950		
+	Date:12/05/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        	Iphone13 promax 128gb:	1:	800000	LG45":	1:	125000	clavier hp retro-éclairage:	1:	15000	Dell :	1:	75000
+*****************************************
+Montant Facture: 		 1015000.0
+Montant Ht : 		 195387.5
+Montant Net à Payer: 		 964250.0
+*****************************************
+        

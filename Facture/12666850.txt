@@ -1,0 +1,13 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: hgjfjf
+        Tel du client : 112121
+        Numéro Facture : 12666850		
+	Date:12/05/2024
+*****************************************
+    Nom produit 	Quandité	Prix
+*****************************************
+        	Iphone13 promax 128gb	1	800000

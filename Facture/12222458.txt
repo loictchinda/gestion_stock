@@ -1,0 +1,12 @@
+
+         Magasin Hassan 
+ Tel: +237 652 58 45 85 Adressse: Yaounde
+        *********************************************
+        Nom du client: Bassam
+        Tel du client : 694255632
+        Numéro Facture : 12222458	
+Date:05/12/24042024
+        ********************
+        Nom produit 			Quandité	Prix
+        ********************
+        

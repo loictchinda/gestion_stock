@@ -1,0 +1,20 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client:  bcchxg
+        Tel du client : 2131046843
+        Numéro Facture : 20566431		
+	Date:20/05/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        
+clavier hp retro-éclairage:	2:	30000
+*****************************************
+Montant Facture: 		 15000.0
+Montant Ht : 		 2887.5
+Montant Net à Payer: 		 14250.0
+*****************************************
+        

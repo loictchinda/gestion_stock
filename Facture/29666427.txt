@@ -1,0 +1,20 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: dago
+        Tel du client : 45454401112154
+        Numéro Facture : 29666427		
+	Date:29/07/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        
+Iphone13 promax 128gb:	1:	800000
+*****************************************
+Montant Facture: 		 800000.0
+Montant Ht : 		 154000.0
+Montant Net à Payer: 		 760000.0
+*****************************************
+        

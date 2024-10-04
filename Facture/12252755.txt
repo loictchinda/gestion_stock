@@ -1,0 +1,12 @@
+
+         Magasin Hassan 
+ Tel: +237 652 58 45 85 Adressse: Yaounde
+        *********************************************
+        Nom du client: Ali
+        Tel du client : 658425812
+        Numéro Facture : 12252755		
+		Date:12/07/2024
+        ********************
+        Nom produit 			Quandité	Prix
+        ********************
+        

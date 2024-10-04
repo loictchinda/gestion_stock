@@ -1,0 +1,22 @@
+
+         Magasin Hassan 
+	 Tel: +237 652 58 45 85
+	 Adressse: Yaounde
+*****************************************
+        Nom du client: Ivan
+        Tel du client : 6545854122
+        Numéro Facture : 13426262		
+	Date:13/05/2024
+*****************************************
+    	Nom produit: 	Quandité:	Prix:
+*****************************************
+        
+Iphone13 promax 128gb:		1:		800000
+clavier hp retro-éclairage:		1:		15000
+Dell :		1:		75000
+*****************************************
+Montant Facture: 		 890000.0
+Montant Ht : 		 171325.0
+Montant Net à Payer: 		 845500.0
+*****************************************
+        
